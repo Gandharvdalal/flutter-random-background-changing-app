@@ -1,16 +1,8 @@
 # randombackground
+its a basic statefull widget app for begineers
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture](https://user-images.githubusercontent.com/43866043/66235049-d4f59980-e70c-11e9-99ba-a8d16e4ae8a8.PNG)
+![Capture2](https://user-images.githubusercontent.com/43866043/66235053-d626c680-e70c-11e9-9e6f-f0faec1120ed.PNG)
