@@ -1,5 +1,5 @@
 # randombackground
-its a basic statefull widget app for begineers
+its a basic statefull widget app for beginners which changes the background color on tapping 'change it!'
 
 
 
